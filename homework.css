@@ -1,0 +1,26 @@
+.name {
+  font-size: 25px;
+}
+
+.menu-table {
+  border-collapse: collapse;
+
+  margin: auto;
+}
+
+.menu-table,
+.menu-table td {
+  border: 2px solid #333;
+  text-align: center;
+}
+
+.top {
+  color: #ffffff;
+  font-weight: 800;
+  background-color: #000000;
+}
+
+.food {
+  color: #000000;
+  background-color: antiquewhite;
+}
